@@ -233,7 +233,7 @@ function esVocal(letra){
     return "Es vocal"
   } else if (letra.length > 1){
     return "Dato incorrecto"
-  } else return"Dato incorrecto"
+  } else return "Dato incorrecto"
 }
 
 
